@@ -44,9 +44,8 @@ Discord bot that monitors the price of the virtual Escape from Tarkov economy
 - Run the bot.py file to communicate with the discord servers for bot functionality 
 
 ## Acknowledgements
-
 - This project was made in collaboration with [@JoshuaLuo](https://github.com/Joshua-z-Luo)
 
 
 ## Contact
-Created by [@JoshuaLuo](https://github.com/Joshua-z-Luo) - feel free to contact me at jla818@sfu.ca
+Created by [@EthanGray](https://github.com/Egray180) - feel free to contact me at egray180@student.ubc.ca
